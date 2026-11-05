@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/tai-app", "destination": "/index.html" }
+  ]
+}
